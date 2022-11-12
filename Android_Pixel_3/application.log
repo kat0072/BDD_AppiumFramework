@@ -1,0 +1,41 @@
+[Android_Pixel_3 INFO ] 2022-11-12 10:44:16.047 ServerManager:30 - starting appium server
+[Android_Pixel_3 INFO ] 2022-11-12 10:47:54.684 ServerManager:30 - starting appium server
+[Android_Pixel_3 INFO ] 2022-11-12 10:50:52.956 ServerManager:30 - starting appium server
+[Android_Pixel_3 INFO ] 2022-11-12 10:51:00.912 ServerManager:46 - Appium server started
+[Android_Pixel_3 INFO ] 2022-11-12 10:51:00.969 DriverManager:30 - initializing Appium driver
+[Android_Pixel_3 INFO ] 2022-11-12 10:51:01.025 PropertyManager:19 - loading config properties
+[Android_Pixel_3 INFO ] 2022-11-12 10:51:01.027 CapabilitiesManager:20 - getting capabilities
+[Android_Pixel_3 INFO ] 2022-11-12 10:51:01.032 CapabilitiesManager:38 - appUrl isC:\Users\raman\Automation\AppiumFramework_BDD\src\test\resources\app\Android.SauceLabs.Mobile.Sample.app.2.7.1.apk
+[Android_Pixel_3 INFO ] 2022-11-12 10:53:56.302 ServerManager:30 - starting appium server
+[Android_Pixel_3 INFO ] 2022-11-12 10:54:01.432 ServerManager:46 - Appium server started
+[Android_Pixel_3 INFO ] 2022-11-12 10:54:01.485 DriverManager:30 - initializing Appium driver
+[Android_Pixel_3 INFO ] 2022-11-12 10:54:01.522 PropertyManager:19 - loading config properties
+[Android_Pixel_3 INFO ] 2022-11-12 10:54:01.523 CapabilitiesManager:20 - getting capabilities
+[Android_Pixel_3 INFO ] 2022-11-12 10:54:01.527 CapabilitiesManager:38 - appUrl isC:\Users\raman\Automation\AppiumFramework_BDD\src\test\resources\app\Android.SauceLabs.Mobile.Sample.app.2.7.1.apk
+[Android_Pixel_3 INFO ] 2022-11-12 10:56:21.158 ServerManager:30 - starting appium server
+[Android_Pixel_3 INFO ] 2022-11-12 10:56:26.265 ServerManager:46 - Appium server started
+[Android_Pixel_3 INFO ] 2022-11-12 10:56:26.312 DriverManager:30 - initializing Appium driver
+[Android_Pixel_3 INFO ] 2022-11-12 10:56:26.348 PropertyManager:19 - loading config properties
+[Android_Pixel_3 INFO ] 2022-11-12 10:56:26.350 CapabilitiesManager:20 - getting capabilities
+[Android_Pixel_3 INFO ] 2022-11-12 10:56:26.353 CapabilitiesManager:38 - appUrl isC:\Users\raman\Automation\AppiumFramework_BDD\src\test\resources\app\Android.SauceLabs.Mobile.Sample.app.2.7.1.apk
+[Android_Pixel_3 INFO ] 2022-11-12 11:00:18.680 ServerManager:30 - starting appium server
+[Android_Pixel_3 INFO ] 2022-11-12 11:00:24.068 ServerManager:46 - Appium server started
+[Android_Pixel_3 INFO ] 2022-11-12 11:00:24.118 DriverManager:30 - initializing Appium driver
+[Android_Pixel_3 INFO ] 2022-11-12 11:00:24.159 PropertyManager:19 - loading config properties
+[Android_Pixel_3 INFO ] 2022-11-12 11:00:24.161 CapabilitiesManager:20 - getting capabilities
+[Android_Pixel_3 INFO ] 2022-11-12 11:00:24.166 CapabilitiesManager:38 - appUrl isC:\Users\raman\Automation\AppiumFramework_BDD\src\test\resources\app\Android.SauceLabs.Mobile.Sample.app.2.7.1.apk
+[Android_Pixel_3 INFO ] 2022-11-12 11:00:52.276 DriverManager:42 - Driver is initialized
+[Android_Pixel_3 INFO ] 2022-11-12 11:00:57.377 BasePage:78 - login with invalidUsername
+[Android_Pixel_3 INFO ] 2022-11-12 11:00:59.206 BasePage:78 - password is secret_sauce
+[Android_Pixel_3 INFO ] 2022-11-12 11:01:00.385 BasePage:61 - press login button
+[Android_Pixel_3 INFO ] 2022-11-12 11:01:02.755 BasePage:104 - error text is - Username and password do not match any user in this service.
+[Android_Pixel_3 INFO ] 2022-11-12 11:01:04.388 VideoManager:37 - video path: Android_Pixel_3\Videos\Login with invalid user name.mp4
+[Android_Pixel_3 INFO ] 2022-11-12 11:01:06.487 BasePage:78 - login with standard_user
+[Android_Pixel_3 INFO ] 2022-11-12 11:01:08.275 BasePage:78 - password is invalidPassword
+[Android_Pixel_3 INFO ] 2022-11-12 11:01:08.920 BasePage:61 - press login button
+[Android_Pixel_3 INFO ] 2022-11-12 11:01:09.767 BasePage:104 - error text is - Username and password do not match any user in this service.
+[Android_Pixel_3 INFO ] 2022-11-12 11:01:11.267 VideoManager:37 - video path: Android_Pixel_3\Videos\Login with invalid password.mp4
+[Android_Pixel_3 INFO ] 2022-11-12 11:01:12.646 BasePage:78 - login with standard_user
+[Android_Pixel_3 INFO ] 2022-11-12 11:01:13.903 BasePage:78 - password is secret_sauce
+[Android_Pixel_3 INFO ] 2022-11-12 11:01:15.045 BasePage:61 - press login button
+[Android_Pixel_3 INFO ] 2022-11-12 11:01:28.641 VideoManager:37 - video path: Android_Pixel_3\Videos\Login with valid user name and password.mp4
